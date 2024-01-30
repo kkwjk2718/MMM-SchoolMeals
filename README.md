@@ -1,6 +1,7 @@
 # MMM-SchoolMeals
 
 neis 급식api를 사용하여 학교 급식을 받아와 매직미러에 표시해주는 모듈입니다.<br/>
+![스크린샷 2024-01-30 043209](https://github.com/kkwjk2718/MMM-SchoolMeals/assets/158192089/625be668-e845-4fb0-9120-10fb175b3f71)
 <img width="960" alt="image" src="https://github.com/kkwjk2718/MMM-SchoolMeals/assets/158192089/4fbf9c6c-7e29-4064-b7c7-eb2597ecdd37">
 
 config.js파일은 아래와 같이 추가합니다.<br/>
