@@ -1,0 +1,9 @@
+{
+            module: "MMM-SchoolMeals",
+            position: "center",
+            config: {
+                apiKey: "your_api_key", //neis에서 api키를 발급받아주세요 .
+                atptOfcdcScCode: "교육청코드", //학교가 위치한 지역의 교육청 코드를 입력해주세요.
+                sdSchulCode: "학교코드" //학교 코드를 입력해주세요.
+            }
+        }
